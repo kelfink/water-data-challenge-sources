@@ -1,0 +1,16 @@
+{
+  "name": "water-challenge-scrape",
+  "version": "0.0.1",
+  "description": "Scrape json update notice information.",
+  "main": "simple.js",
+  "author": "Kevin Fries",
+  "dependencies": {
+    "array-flatten": "^2.1.1",
+    "aws-sign2": "^0.7.0",
+    "cheerio": "latest",
+    "express": "^4.16.3",
+    "htmlparser2": "^3.9.2",
+    "request": "latest",
+    "verror": "^1.10.0"
+  }
+}
